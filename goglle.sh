@@ -7,5 +7,5 @@ echo -e "{•}Author : Mr.T1T4N"
 echo -e "{•}Team : Surakarta•Cyber•Security"
 echo -e "============================="
 read -p ""Telusuri :
-link="https://www.google.com/$Terulusuri
+link="https://www.google.com/?gws_rd=ssl
 curl -s $link
