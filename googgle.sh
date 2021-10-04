@@ -7,7 +7,9 @@ date | lolcat
 sleep 2
 clear
 
-
+Ulang='Y'
+while [ $Ulang='Y' ]
+do
 echo " ====================================================="
 echo  "Author : Mr.T1T4N"
 echo  "Team : Mafia Teknologi"
@@ -16,7 +18,7 @@ echo " ======================================================"
 
 echo "[1] LANGSUNG GAK NIHH??"
 echo "[2] Keluar"
-echo -e "Cepat NGAB Pilih"
+echo -n "Cepat NGAB Pilih :"
 read "Pilih :"
 if [ $pil = '1' ]
 then
