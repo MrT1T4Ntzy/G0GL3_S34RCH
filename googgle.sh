@@ -16,6 +16,7 @@ echo " ========================================================"
 
 echo "[1] LANGSUNG GAK NIHH??"
 echo "[2] Keluar"
+echo -e "Cepat NGAB Pilih"
 read "Pilih :"
 if [ $pil = '1' ]
 then
